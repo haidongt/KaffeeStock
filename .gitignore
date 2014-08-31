@@ -1,0 +1,16 @@
+maven-eclipse.xml
+target/*
+.externalToolBuilders/Maven_Ant_Builder.launch
+*~
+*.bak
+.mymetadata
+.settings
+.idea
+*.iml
+dependencies/jbilling/packages/*
+.springBeans
+.DS_Store
+.scssc
+.vagrant
+profiles/*
+!profiles/.gitkeep
